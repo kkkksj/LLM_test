@@ -9,5 +9,3 @@ chromadb
 pip
 langchain_core
 langchain
-requests
-python == 3.12.2
