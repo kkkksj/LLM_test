@@ -5,3 +5,4 @@ python-dotenv==0.10.1
 langchain_text_splitters == 0.2.2
 langchain_chroma ==  0.1.2  
 Chroma == 0.2.0
+chromadb == 0.5.5
