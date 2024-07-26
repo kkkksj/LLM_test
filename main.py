@@ -1,6 +1,10 @@
 import streamlit as st
 from streamlit_cookies_controller import CookieController
 
+# 디버그 코드 추가
+st.write("Current working directory:", os.getcwd())
+st.write("Files in the directory:", os.listdir("."))
+
 from login_signup import login_page
 from login_signup import signup_page
 from login_signup import complete_signup_page
