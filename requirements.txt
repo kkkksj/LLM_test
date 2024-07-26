@@ -9,6 +9,4 @@ chromadb
 pip
 langchain_core
 langchain
-json
 requests
-
